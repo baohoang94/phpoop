@@ -1,0 +1,11 @@
+{
+    "name": "bao/autoload",
+    "autoload": {
+        "files": [
+            "app/Http/Controllers/HomeController.php",
+            "app/Product.php",
+            "app/User.php"
+        ]
+    },
+    "require": {}
+}

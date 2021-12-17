@@ -1,0 +1,14 @@
+{
+    "name": "bao/autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Heppers/Hepper.php"
+        ]
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
